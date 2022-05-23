@@ -12,8 +12,8 @@
 
 ## Poster presentations 
 
-- [Keng MJ. Hospital Costs and Health Related Quality of Life Associated with Adverse Events in People with Diabetes _(Selected as Best Posters for Cardiovascular and Hypertension)_. IDF Virtual Congress 2021.](https://doi.org/10.26226/morressier.617c37317c09fc044a975210)
-- [Keng MJ. Simulation Model for Lifetime Prediction of Complications in People with Diabetes without Previous Cardiovascular Disease Using ASCEND Risk Equations _(Finalist for Best Poster)_. Oxford BHF CRE Research Symposium 2021.](https://github.com/mjkeng/phd_presentations/blob/main/2021-11%20BHF%20symposium_poster.pdf)
+- Keng MJ. Hospital Costs and Health Related Quality of Life Associated with Adverse Events in People with Diabetes _(Selected as Best Posters for Cardiovascular and Hypertension)_. [IDF Virtual Congress 2021.](https://doi.org/10.26226/morressier.617c37317c09fc044a975210)
+- Keng MJ. Simulation Model for Lifetime Prediction of Complications in People with Diabetes without Previous Cardiovascular Disease Using ASCEND Risk Equations _(Finalist for Best Poster)_. [Oxford BHF CRE Research Symposium 2021.](https://github.com/mjkeng/phd_presentations/blob/main/2021-11%20BHF%20symposium_poster.pdf)
 
 
 ## Working papers
