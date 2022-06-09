@@ -3,7 +3,8 @@
 ## Published papers 
 
 - Keng MJ, Leal J, Mafham M, Bowman L, Armitage J, Mihaylova B. Performance of the UK Prospective Diabetes Study Outcomes Model 2 in a Contemporary UK Type 2 Diabetes Trial Cohort. Value Health. 2022 Mar;25(3):435-442. doi: [10.1016/j.jval.2021.09.005](https://doi.org/10.1016/j.jval.2021.09.005).
-- Keng MJ, Leal J, Bowman L, Armitage J, Mihaylova B; ASCEND Study Collaborative Group. Decrements in health-related quality of life associated with adverse events in people with diabetes. Diabetes Obes Metab. 2022 Mar;24(3):530-538. doi: [10.1111/dom.14610](https://doi.org/10.1111/dom.14610).
+- Keng MJ, Leal J, Bowman L, Armitage J, Mihaylova B; ASCEND Study Collaborative Group. Decrements in health-related quality of life associated with adverse events in people with diabetes. Diabetes Obes Metab. 2022;24(3):530-538. doi: [10.1111/dom.14610](https://doi.org/10.1111/dom.14610).
+- Keng MJ, Leal J, Bowman L, Armitage J, Mihaylova B; ASCEND Study Collaborative Group. Hospital costs associated with adverse events in people with diabetes in the UK. Diabetes Obes Metab. 2022 Accepted Author Manuscript. doi: [doi.org/10.1111/dom.14796](https://doi.org/10.1111/dom.14796).
 
 
 ## Poster presentations 
