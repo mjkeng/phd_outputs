@@ -5,7 +5,7 @@
 
 - R code for simulation model _In preparation._
 
-- [Code list to identify medication use from UK Biobank](supporting materials/ukb_medication.csv) 
+- [Code list to identify medication use from UK Biobank](https://github.com/mjkeng/phd_outputs/blob/main/supporting%20materials/ukb_medication.csv) 
 
 ## Published papers 
 
@@ -16,7 +16,7 @@
 - Keng MJ, Leal J, Bowman L, Armitage J, Mihaylova B, on behalf of the ASCEND Study Collaborative Group. Decrements in health-related quality of life associated with adverse events in people with diabetes. Diabetes Obes Metab. 2022;24(3):530-538. doi: [10.1111/dom.14610](https://doi.org/10.1111/dom.14610).
 
 - Keng MJ, Leal J, Bowman L, Armitage J, Mihaylova B, on behalf of the ASCEND Study Collaborative Group. Hospital costs associated with adverse events in people with diabetes in the UK. Diabetes Obes Metab. 2022; 1- 10. doi: [doi.org/10.1111/dom.14796](https://doi.org/10.1111/dom.14796).
-  + Supplementary materials: [Variance-covariance matrix of regression coefficients](supporting materials/dom.14796_cost_vcovmatrix.csv) 
+  + Supplementary materials: [Variance-covariance matrix of regression coefficients](https://github.com/mjkeng/phd_outputs/blob/main/supporting%20materials/dom.14796_cost_vcovmatrix.csv) 
   
   
 ## Working papers 
@@ -27,10 +27,9 @@
 
 - Keng MJ, Leal J, Bowman L, Armitage J, Mihaylova B, on behalf of the ASCEND Study Collaborative Group. Tutorial paper: data-driven strategies for updating parametric proportional hazard risk equations. _In preparation._
 
-
 ## Poster presentations 
 
 - Keng MJ. Hospital Costs and Health Related Quality of Life Associated with Adverse Events in People with Diabetes _(Selected as Best Posters for Cardiovascular and Hypertension)_. [IDF Virtual Congress 2021.](https://doi.org/10.26226/morressier.617c37317c09fc044a975210)
 
-- Keng MJ. Simulation Model for Lifetime Prediction of Complications in People with Diabetes without Previous Cardiovascular Disease Using ASCEND Risk Equations _(Finalist for Best Poster)_. [Oxford BHF CRE Research Symposium 2021.](presentations/2021-11 BHF symposium_poster.pdf)
+- Keng MJ. Simulation Model for Lifetime Prediction of Complications in People with Diabetes without Previous Cardiovascular Disease Using ASCEND Risk Equations _(Finalist for Best Poster)_. [Oxford BHF CRE Research Symposium 2021.](https://github.com/mjkeng/phd_outputs/blob/main/presentations/2021-11%20BHF%20symposium_poster.pdf)
 
