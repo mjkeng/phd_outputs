@@ -3,7 +3,7 @@
 
 ## Thesis supplementary materials 
 
-- R code for simulation model _In preparation._
+- [R code for simulation model](https://github.com/mjkeng/ascend-simmod) _In preparation._
 
 - [Code list to identify medication use from UK Biobank](https://github.com/mjkeng/phd_outputs/blob/main/supporting%20materials/ukb_medication.csv) 
 
